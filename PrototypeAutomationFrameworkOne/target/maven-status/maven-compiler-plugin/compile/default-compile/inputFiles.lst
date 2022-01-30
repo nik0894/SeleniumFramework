@@ -1,8 +1,8 @@
-C:\eclipse\PrototypeAutomationFrameworkOne\src\main\java\com\automation\utilities\BrowserFactory.java
-C:\eclipse\PrototypeAutomationFrameworkOne\src\main\java\com\automation\utilities\ConfigDataProvider.java
-C:\eclipse\PrototypeAutomationFrameworkOne\src\main\java\com\automation\utilities\ExcelDataProvider.java
-C:\eclipse\PrototypeAutomationFrameworkOne\src\main\java\com\automation\pages\LoginPage.java
-C:\eclipse\PrototypeAutomationFrameworkOne\src\main\java\com\automation\testcases\TestCaseWithoutFramework.java
-C:\eclipse\PrototypeAutomationFrameworkOne\src\main\java\com\automation\pages\BaseClass.java
-C:\eclipse\PrototypeAutomationFrameworkOne\src\main\java\com\automation\utilities\Helper.java
-C:\eclipse\PrototypeAutomationFrameworkOne\src\main\java\com\automation\testcases\LoginTestCRM.java
+C:\Users\Aman\git\SeleniumFramework\PrototypeAutomationFrameworkOne\src\main\java\com\automation\testcases\TestCaseWithoutFramework.java
+C:\Users\Aman\git\SeleniumFramework\PrototypeAutomationFrameworkOne\src\main\java\com\automation\pages\LoginPage.java
+C:\Users\Aman\git\SeleniumFramework\PrototypeAutomationFrameworkOne\src\main\java\com\automation\pages\BaseClass.java
+C:\Users\Aman\git\SeleniumFramework\PrototypeAutomationFrameworkOne\src\main\java\com\automation\testcases\LoginTestCRM.java
+C:\Users\Aman\git\SeleniumFramework\PrototypeAutomationFrameworkOne\src\main\java\com\automation\utilities\ConfigDataProvider.java
+C:\Users\Aman\git\SeleniumFramework\PrototypeAutomationFrameworkOne\src\main\java\com\automation\utilities\Helper.java
+C:\Users\Aman\git\SeleniumFramework\PrototypeAutomationFrameworkOne\src\main\java\com\automation\utilities\BrowserFactory.java
+C:\Users\Aman\git\SeleniumFramework\PrototypeAutomationFrameworkOne\src\main\java\com\automation\utilities\ExcelDataProvider.java

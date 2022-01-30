@@ -22,7 +22,8 @@ public class LoginTestCRM extends BaseClass{
 @Test(priority=1)
 	public void loginApp()
 	{
-		
+		//added comment for github
+	
 		logger=	report.createTest("Login to webapp");	
 	
 		LoginPage loginObj=PageFactory.initElements(driver, LoginPage.class);
@@ -31,8 +32,7 @@ public class LoginTestCRM extends BaseClass{
 		
 		loginObj.loginToCRM(excel.getStringData("Login", 0, 0), excel.getStringData("Login", 0, 1));
 		
-		logger.pass("Login done successfully");
-		
+		logger.pass("Login done successfully");		
 		//Helper.captureScreenshot(driver);
 		
 	}
